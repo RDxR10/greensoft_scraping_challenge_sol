@@ -8,6 +8,8 @@ After submission, they included a JS challenge (not sure when).
 
 Downloading the HTML was never the issue; it was the PDF and the XML. The second script, `sol_new_proof.py` (playwright-based) is a proof solution with the PDF and XML parts completed (sanity check). Since the main script (not included in this repo) processes a large number of files, I’m not sure how long the script will take to run.
 
+PS: Ignore the directory structure in this repo
+
 ## How to Run (Quick Check)
 
 Once the necessary libraries are installed via ```pip install```,
